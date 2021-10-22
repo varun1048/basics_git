@@ -1,1 +1,1 @@
-"print('to git basics')" 
+print('to git basics')
